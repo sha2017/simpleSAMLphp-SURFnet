@@ -1,10 +1,10 @@
 {
-    "name": "surfnet/simplesamlphp-module-themesurfnet",
-    "description": "SURFnet simpleSAMLphp theme",
+    "name": "sha2017/simplesamlphp-module-sha2017",
+    "description": "SHA2017 simpleSAMLphp theme",
     "type": "simplesamlphp-module",
     "license": "LGPL-2.1",
     "extra": {
-        "ssp-mixedcase-module-name": "themeSURFnet"
+        "ssp-mixedcase-module-name": "sha2017"
     },
     "require": {
         "simplesamlphp/composer-module-installer": "~1.0"
@@ -12,7 +12,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/SURFnet/simpleSAMLphp-SURFnet"
+            "url": "https://github.com/sha2017/simpleSAMLphp-sha2017"
         }
     ]  
 }
